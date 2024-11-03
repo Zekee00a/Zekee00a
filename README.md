@@ -9,14 +9,13 @@ I am a current student with a deep passion for technology and a strong drive to 
 My journey in cybersecurity has led me to develop a passion for Blue Teaming, specifically aiming to join a Security Operation Center (SOC) as a Tier 1 Analyst
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Splunk Implementation and Log Analysis         | <a href="https://github.com/Zekee00a/Active-Directory-Configuration/tree/main">Active Directory and Splunk Integration</a>|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
