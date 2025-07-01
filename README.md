@@ -14,7 +14,7 @@ My journey in cybersecurity has led me to develop a passion for Blue Teaming, sp
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Splunk Implementation and Log Analysis         | <a href="https://github.com/Zekee00a/Active-Directory-Configuration/tree/main">Active Directory and Splunk Integration</a>|
-| Analyzes employee salaries by collecting input, calculating the average, and identifying employees within $5,000 of the average. | 
+| Analyzes employee salaries by collecting input, calculating the average, and identifying employees within $5,000 of the average. | <a href="https://github.com/Zekee00a/Salary-Analysis">Salary Analysis</a> | 
 
 ## Tools
 
