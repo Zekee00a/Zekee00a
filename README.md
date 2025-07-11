@@ -15,7 +15,7 @@ My journey in cybersecurity has led me to develop a passion for Blue Teaming, sp
 |-----------------------------------------------|----------------------------|
 | Splunk Implementation and Log Analysis         | <a href="https://github.com/Zekee00a/Active-Directory-Configuration/tree/main">Active Directory and Splunk Integration</a>|
 | Write Python program to input, store, and analyze employee salary data using lists and control structures. | <a href="https://github.com/Zekee00a/Salary-Analysis">Salary Analysis</a> | 
-| Setup and configure a SOHO network with DNS, DHCP, and VLAN segmentation. | <a href="https://github.com/Zekee00a/SOHO-Project/blob/main/README.md">SOHO Network</a> | 
+| Set up and configure a SOHO network with DNS, DHCP, and VLAN segmentation. | <a href="https://github.com/Zekee00a/SOHO-Project/blob/main/README.md">SOHO Network</a> | 
 
 ## Tools
 
