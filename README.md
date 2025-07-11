@@ -47,3 +47,4 @@ My journey in cybersecurity has led me to develop a passion for Blue Teaming, sp
 ## Projects
 - <a href="https://github.com/Zekee00a/Active-Directory-Configuration/tree/main">Active Directory and Splunk Integration</a>
 - <a href="https://github.com/Zekee00a/Salary-Analysis">Salary Analysis</a>
+- <a href="https://github.com/Zekee00a/SOHO-Project">SOHO Network</a>
